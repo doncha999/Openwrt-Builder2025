@@ -1,3 +1,3 @@
-luci kmod-usb-serial kmod-usb-net kmod-usb-serial-wwan kmod-usb-serial-option kmod-usb-net-qmi-wwan kmod-usb-net-cdc-mbim modemmanager luci-proto-modemmanager atinout luci-app-atinout modeminfo modeminfo-qmi modeminfo-serial-dell modeminfo-serial-telit automodem luci-app-modeminfo luci-app-smstools3 youtubeUnblock luci-app-youtubeUnblock \
+luci kmod-usb-serial kmod-usb-net kmod-usb-serial-wwan kmod-usb-serial-option kmod-usb-net-qmi-wwan kmod-usb-net-cdc-mbim modemmanager luci-proto-modemmanager atinout luci-app-atinout modeminfo modeminfo-qmi modeminfo-serial-dell modeminfo-serial-telit automodem luci-app-modeminfo luci-app-smstools3 \
 kmod-usb-net-asix kmod-usb-net-asix-ax88179 kmod-usb-net-rtl8150 kmod-usb-net-rtl8152 \
 hostapd wpa-cli wpa-supplicant kmod-cfg80211 kmod-mac80211 wireless-tools iw-full hostapd-utils \
